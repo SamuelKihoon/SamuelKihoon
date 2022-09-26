@@ -10,13 +10,10 @@
 
 
 #### 다루기 익숙한 언어 :
- * C++
  * C#
- * Javascript
- * Node.js
- * BUN.js
+ * Javascript (Node.js/BUN.js)
  * Webs(HTML/CSS/JS)
- * Python
+ * Python (Selenium)
  * R
  * VB.NET
  * JAVA(Android Studio)

@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-## 김기훈
+## 안녕하세요? 소프트웨어 개발자 김기훈입니다.
+
+# 진행한 프로젝트 :
 
 <!--
 **SamuelGalaxys/SamuelGalaxys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

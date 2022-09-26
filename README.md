@@ -2,7 +2,11 @@
 
 ## 안녕하세요? 소프트웨어 개발자 김기훈입니다.
 
-# 진행한 프로젝트 :
+#### 진행한 프로젝트 :
+#### * 마한아존 플랫폼
+#### * 나믜브 지도
+
+
 
 <!--
 **SamuelGalaxys/SamuelGalaxys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

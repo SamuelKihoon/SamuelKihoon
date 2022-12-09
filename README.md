@@ -1,15 +1,15 @@
 <h1 align="left">✨ Hi , I'm Kihoon Kim 🙂</h1>
 <h3 align="left">서울에 거주하고 있는 평범한 Mid-level 개발자입니다.</h3>
 
-- 🔭 I’m currently working on [Kyung Hee Univ.](www.khu.ac.kr)
+-  I’m currently working on [Kyung Hee Univ.](www.khu.ac.kr)
 
-- 🌱 현재 배우고 있는 언어는 **BUN.JS, Obj-C**
+-  현재 배우고 있는 언어는 **BUN.JS, Obj-C**
 
-- 👨‍💻 포트폴리오 홈페이지는 이곳에 (작동 안됌) [www.kihoonx.bu.to](www.kihoonx.bu.to)
+-  포트폴리오 홈페이지는 이곳에 (작동 안됌) [www.kihoonx.bu.to](www.kihoonx.bu.to)
 
-- 📝 개발 블로그는 티스토리에 작성중입니다. [www.tistory.com](www.tistory.com)
+-  개발 블로그는 티스토리에 작성중입니다. [www.tistory.com](www.tistory.com)
 
-- 📫 연락은 이메일로! **kihoonx@khu.ac.kr**
+-  연락은 이메일로! **kihoonx@khu.ac.kr**
 
 
 <h3 align="left">프로그래밍 언어와 스킬들 :</h3>

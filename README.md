@@ -1,10 +1,10 @@
 
 
-## ✨  ABOUT ME ✨
+## ✨  Hello, i'm Kihoon Kim. 🙂🌎
 
 <br/>
 
-- 👩🏻‍💻 Front-End Developer
+- 👩🏻‍💻 Back-End Developer
 
 <br/>
 
@@ -35,17 +35,10 @@
 
 ## ⚡️ Language ⚡️
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissa1228&layout=compact)](https://github.com/alissa1228)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelGalaxys&layout=compact)](https://github.com/SamuelGalaxys)
 
 
-
-[GOLB](https://nova.rcex.live)
-
-![](https://raw.githubusercontent.com/SamuelGalaxys/SamuelGalaxys/master/profile-summary-card-output/default/0-profile-details.svg)
-![](https://raw.githubusercontent.com/SamuelGalaxys/SamuelGalaxys/master/profile-summary-card-output/default/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/SamuelGalaxys/SamuelGalaxys/master/profile-summary-card-output/default/3-stats.svg)
-
-
+ 
 
 
 

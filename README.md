@@ -1,8 +1,6 @@
 <h1 align="center">✨ Hi 👋, I'm Kihoon Kim 🙂🌎</h1>
 <h3 align="center">서울에 거주하고 있는 평범한 Mid-level 개발자입니다.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samuelgalaxys" alt="samuelgalaxys" /></a> </p>
-
 - 🔭 I’m currently working on [zz](www.google.com)
 
 - 🌱 I’m currently learning **BUN.JS, Obj-C**
@@ -17,9 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/경희대학교 빅데이터응용학과" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="경희대학교 빅데이터응용학과" height="30" width="40" /></a>
 <a href="https://twitter.com/sam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kihoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kihoon" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/kihoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kihoon" height="30" width="40" /></a>
+<a href="https://kaggle.com/kihoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kihoon" height="30" width="40" /></a>
 <a href="https://fb.com/sam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sam" height="30" width="40" /></a>
 <a href="https://instagram.com/sam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sam" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/기훈김의 프로그래밍" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="기훈김의 프로그래밍" height="30" width="40" /></a>
@@ -31,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelgalaxys&show_icons=true&locale=en&layout=compact" alt="samuelgalaxys" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelgalaxys&show_icons=true&locale=en" alt="samuelgalaxys" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelgalaxys&" alt="samuelgalaxys" /></p>

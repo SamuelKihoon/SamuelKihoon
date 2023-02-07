@@ -7,7 +7,7 @@
 
 -  포트폴리오 홈페이지는 이곳에 (작동 안됌) [www.kihoonx.bu.to](www.kihoonx.bu.to)
 
--  개발 블로그는 티스토리에 작성중입니다. [www.tistory.com](www.tistory.com)
+-  개발 블로그는 티스토리에 작성중입니다. [kihoonx.tistory.com](kihoonx.tistory.com)
 
 -  연락은 이메일로! **kihoonx@khu.ac.kr**
 

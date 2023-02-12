@@ -1,4 +1,4 @@
-<h1 align="left">✨ Hi , I'm Kihoon Kim 🙂</h1>
+<h1 align="left">Hi , I'm Kihoon Kim 🙂</h1>
 <h3 align="left">서울에 거주하고 있는 평범한 Mid-level 개발자입니다.</h3>
 
 -  쿠버네티스 사용할줄 몰라요. 끝

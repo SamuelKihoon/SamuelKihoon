@@ -4,7 +4,7 @@
 
 -  아이폰(맥북)애플 언어랑 안 친해요.
 
--  현재 배우고 있는 언어는 **GPT API, Obj-C**
+-  현재 배우고 있는 언어는 **GPT API, REST*
 
 -  개발 블로그는 티스토리에 작성중입니다. [kihoonx.tistory.com](kihoonx.tistory.com)
 

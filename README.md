@@ -2,6 +2,7 @@
 <h1 align="left">I'm Kihoon Kim </h1>
 <h3 align="left">서울에 거주하고 있는 평범한 Mid-level 개발자입니다.</h3>
 
+
 -  아이폰(맥북)애플 언어랑 안 친해요.
 
 -  현재 배우고 있는 언어는 **GPT API, REST*

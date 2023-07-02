@@ -32,6 +32,14 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> &nbsp
 
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelgalaxys&show_icons=true&theme=dark&locale=en" alt="samuelgalaxys" /></p>
+
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=SamuelGalaxys&theme=dark&locale=ko" alt="samuelgalaxys" /></p>
+
+
+</p>
     
 <!--
 
@@ -53,8 +61,4 @@
 
 
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelgalaxys&show_icons=true&theme=dark&locale=en" alt="samuelgalaxys" /></p>
-
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=SamuelGalaxys&theme=dark&locale=ko" alt="samuelgalaxys" /></p>
+ 

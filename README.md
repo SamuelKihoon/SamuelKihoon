@@ -20,7 +20,7 @@
 <a href="https://www.instagram.com/000000/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> &nbsp
 </p>
 
-<h3 align="center"><b>Skills</b></h3>
+<h3 align="center"><b>skills</b></h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> &nbsp

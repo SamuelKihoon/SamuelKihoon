@@ -13,6 +13,17 @@
   Feel free to contact me! 😉
 </p>
 
+</br></br>
+</br>2018 - 중국공산주의청년단 및 중국공산당 주최 "AI활용 치안 강화 아이디어 경쟁전" 상급상
+</br>2018 - 민주평화통일자문회의 주최 통일골든벨 상위10위 본선진출
+</br>2019 - 민주평화통일자문회의 주최 통일골든벨 최우수상
+</br>2020 - 미 항공우주국 NASA 주최 "지속가능한 달 탐사 NASAMOONKIT 공모전 50위 내
+</br>2021 - "환경을 생각하는 공학 아이디어 공모전" 경기도장상 및 미국호비재단장상 수상
+</br>2022 - 삼성 소프트웨어 개발자 컨퍼런스(SSDC22) 개발자로 참석
+</br>2022 - 경희대학교 소프트웨어 아이디어+해커톤 경희대학교총장상 수상
+</br>2022 - Google Innovators : Hive 참석
+
+
 <h3 align="center"><b>Contact</b></h3>
 <p align="center">
 <a href="mailto:samuelthegalaxys@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp

@@ -1,8 +1,7 @@
 
 <p align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient"><br/>
-  <a href="https://imgbb.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/OSIRIS_Mars_true_color.jpg/1200px-OSIRIS_Mars_true_color.jpg" alt="rirakuma-psa" width="128px" border="12"></a>
+  <img src="[https://capsule-render.vercel.app/api?type=slice&color=gradient](https://birzont.github.io/Birzont/BirzontBG.jpeg)"><br/>
 </p>
 
 

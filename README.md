@@ -1,7 +1,7 @@
 
 <p align="center">
   
-  <img src="http://birzont.github.io/Birzont/BirzontBG.jpeg"></br>
+  <img src="http://birzont.github.io/Birzont/Background.jpeg"></br>
 </p>
 
 

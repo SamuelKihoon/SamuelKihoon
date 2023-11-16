@@ -22,7 +22,7 @@
 <h3 align="center"><b>Contact</b></h3>
 <p align="center">
 <a href="mailto:samuelthegalaxys@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
-<a href="https://www.linkedin.com/in/OOOOO/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> &nbsp
+<a href="https://www.linkedin.com/in/kihoonx/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> &nbsp
 <a href="https://www.instagram.com/nasa_jwstwebb/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> &nbsp
 </p>
 

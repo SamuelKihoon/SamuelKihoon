@@ -8,7 +8,9 @@
 
 
 
+https://lrl.kr/grFs
 
+https://docs.google.com/presentation/d/1GiibXYVxIbPw5deliUi2SP011gcHjvLUZwLtmRRfKa4/edit#slide=id.g271dca8d576_0_28
 
 
 

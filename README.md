@@ -1,17 +1,4 @@
 
-<p align="center">
-  
-  <img src="http://birzont.github.io/Birzont/Background.jpeg"></br>
-</p>
-
-
-
-
-
-https://lrl.kr/grFs
-
-https://docs.google.com/presentation/d/1GiibXYVxIbPw5deliUi2SP011gcHjvLUZwLtmRRfKa4/edit#slide=id.g271dca8d576_0_28
-
 
 
 
@@ -28,7 +15,6 @@ https://docs.google.com/presentation/d/1GiibXYVxIbPw5deliUi2SP011gcHjvLUZwLtmRRf
 <p align="center">
 <a href="mailto:samuelthegalaxys@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
 <a href="https://www.linkedin.com/in/kihoonx/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> &nbsp
-<a href="https://www.instagram.com/nasa_jwstwebb/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> &nbsp
 </p>
 
 <h3 align="center"><b>skills</b></h3>

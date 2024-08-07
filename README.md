@@ -28,11 +28,11 @@
 </br></br>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelgalaxys&show_icons=true&theme=dark&locale=en" alt="samuelgalaxys" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelKihoon&show_icons=true&theme=dark&locale=en" alt="samuelgalaxys" />
 </p>
 </br>
 <p align="center">
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=SamuelGalaxys&theme=dark&locale=ko" alt="samuelgalaxys" />
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=SamuelKihoon&theme=dark&locale=ko" alt="samuelgalaxys" />
 </p>
 
 

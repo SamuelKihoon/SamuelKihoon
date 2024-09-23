@@ -1,4 +1,3 @@
-https://docs.google.com/presentation/d/1SxakDGiP1cUAlKFYLgm954RUqotMgKoeIy6Ivrs8ANc/edit#slide=id.g2fd9cdd5a90_0_52
 
 <p align="center">
   Hi :) I'm <b>KiHOON</b>. I'm majoring in Big Data Engineering, <br/>

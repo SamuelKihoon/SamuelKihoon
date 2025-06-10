@@ -11,10 +11,6 @@ https://gitdocify.com/
 
 
 
-https://docs.google.com/presentation/d/1mveLzC_FfJaLjT8gYsDpZ2kFycvycfBo2b6wMLTKntk/edit?pli=1&slide=id.p1#slide=id.p1
-
-
-
 
 
 <img src="DALL·E%202025-03-17%2005.20.54%20-%20A%20low-poly%20style%20illustration%20featuring%20a%20traditional%20Korean%20Hanok%20house%2C%20a%20low-poly%20deep%20green%20pine%20tree%2C%20a%20smaller%20low-poly%20modern%20iPhone%2016%20with%20it.webp"/>

@@ -3,8 +3,6 @@
   Hi :) I'm <b>KiHOON</b>. I'm majoring in Big Data Engineering, <br/>
   and interested in <b>Artificial Intelligence</b>, <b>Natural Language Processing</b> and <b>Front-end Development</b>. <br/>
 
-  
-  Feel free to contact me! 😉
 
 </p>
 
